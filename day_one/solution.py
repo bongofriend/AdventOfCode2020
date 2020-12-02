@@ -10,5 +10,5 @@ def find_prod(target: int, num: int) -> int:
                 return prod(c)
     return None
  
-print(f"Solution for part 1: {find_prod(2020, 2)}\n")
+print(f"Solution for part 1: {find_prod(2020, 2)}")
 print(f"Solution for part 2: {find_prod(2020, 3)}")
